@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0",
+	"gd": {"android": "2.205", "win": "2.204", "mac": "2.200"},
+	"id": "mishpro.robtop",
+	"name": "RobTop",
+	"version": "1.0.0",
+	"developer": "mishpro",
+	"description": "This mod changes almost all game text to RobTop"
+}
